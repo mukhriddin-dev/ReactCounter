@@ -1,0 +1,59 @@
+.card{
+    width: 440px;
+    height: 290px;
+    border-radius: 5px;
+    background: silver;
+    padding: 12px 15px;
+    margin: 8% auto;
+}
+
+.num{
+    display: inline-block;
+    font-size: 65px;
+  position: relative;
+
+  left:41%;
+  top:4rem;
+  
+}
+
+.plus{
+    background: crimson;
+    border: none;
+    padding: 25px 35px;
+    font-size: 25px;
+    position: relative;
+    top:8rem;
+    margin: 10px;
+}
+
+.minus{
+    background: seagreen;
+    border: none;
+    padding: 25px 35px;
+    font-size: 25px;
+    position: relative;
+    top:8rem
+}
+
+
+
+
+.rest{
+    background: skyblue;
+    border: none;
+    padding: 25px 35px;
+    font-size: 25px;
+    position: relative;
+    top:8rem;
+    margin: 10px;
+}
+
+
+
+
+.kbk{
+    position: relative;
+    left:35px;
+
+}
